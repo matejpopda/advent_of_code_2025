@@ -58,7 +58,7 @@ def second_part():
 
 
 
-    print(f"Result of the first part is {result}")
+    print(f"Result of the second part is {result}")
 
 
 
